@@ -9,4 +9,21 @@ This project was bootstrapped with [Create Python App].
 
 ## To Run Scripts:
 
-In the project directory, you can run:
+Open your code editor.
+Copy the Url of your Youtube video.
+Paste it between " " , in front of url, in the code.
+Remove or change the filepath.
+Run the application.
+
+## Optional Setting:
+
+You can remove the filepath inside the download method.
+So you can find your video inside the original folder of the code.
+
+# OR
+
+You can change the path(Address between " ").
+So you can find the video at that specific address.
+
+
+
